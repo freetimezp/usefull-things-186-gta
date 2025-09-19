@@ -1,4 +1,4 @@
-import { logoData } from "./logo";
+import { logoData } from "./logo.js";
 
 gsap.registerPlugin(ScrollTrigger);
 
